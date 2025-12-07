@@ -23,3 +23,17 @@ eye(n)
 arrange(start, stop, step)
 
 linspace(start, stop, num)
+
+# Part 3: Elementwise Operations
+
+Overload Python operations(+, -, /, **)
+
+elementwise functions: exp, log, sqrt, abs
+
+reductions: sum, mean, min, max, argmin, argmax
+
+# Part 4: Linear Algebra Module (minilinalg)
+
+matrix/vector operations: dot(a, b), matmul(a, b), norm(a)
+
+basic factorizations/solvers: det(a), inv(a), eig(a)
