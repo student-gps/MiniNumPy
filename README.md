@@ -10,7 +10,7 @@ Store attributes: .data,.shape,.ndim,.size
 
 reshape(new_shape), transpose(), __str__ for pretty printing
 
-# Part 1: Array Creation
+# Part 2: Array Creation
 
 array(list_or_nested_list)
 
